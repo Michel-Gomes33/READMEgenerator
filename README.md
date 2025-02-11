@@ -1,10 +1,10 @@
-# Readme Generator
+# ReadMe Generator
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+No license.
 
 ## Description
 
-A boilerplate for Readme files
+A readme generator to save time in formating and creating a new file.
 
 ## Table of Contents
 
@@ -17,19 +17,19 @@ A boilerplate for Readme files
 
 ## Installation
 
-Clone repo, then generate readme by entering in your terminal 'node index.js'
+Clone the repo, and in the terminal, run 'node index.js'
 
 ## Usage
 
-Save time creating and formatting a readme.
+This project is for free use and to save time. Intended use is to generate README files.
 
 ## License
 
-This project is licensed under the BSD license.
+This project is licensed under the MIT license.
 
 ## Contributing
 
-Free to use, please credit my github
+Make sure to cite my github
 
 ## Tests
 
@@ -37,7 +37,7 @@ undefined
 
 ## Questions
 
-For any questions, please contact me at [n/a](mailto:n/a).
+For any questions, please contact me at [N/A](mailto:N/A).
 
 Check out my GitHub profile: [Michel-Gomes33](https://github.com/Michel-Gomes33)
     
