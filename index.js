@@ -110,7 +110,7 @@ function getLicenseBadge(license) {
         'GNU': '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)',
         'MIT': '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)',
         'Mozilla': '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)',
-        'None': ''
+        'None': ' '
     };
     return badges[license];
 }
@@ -126,7 +126,7 @@ function writeToFile(fileName, data) {
     });
 }
 
-// Function call to initialize app
+// TODO: Function call to initialize app
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const readmeContent = generateReadMe(answers);
