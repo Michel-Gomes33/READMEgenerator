@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michel-Gomes33/READMEgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michel-Gomes33/READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/Michel-Gomes33/READMEgenerator#readme",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.4.1"
+  }
+}
